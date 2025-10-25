@@ -1,0 +1,14 @@
+{
+  "validUser": {
+    "username": "qabooks",
+    "password": "Pwd!1234"
+  },
+  "apiUser": {
+    "username": "apiacesso",
+    "password": "Api!1234"
+  },
+  "newUserBase": {
+    "username": "new_user",
+    "password": "New!1234"
+  }
+}

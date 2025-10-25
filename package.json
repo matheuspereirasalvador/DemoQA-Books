@@ -1,0 +1,23 @@
+{
+  "name": "demoqa-books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuspereirasalvador/DemoQA-Books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheuspereirasalvador/DemoQA-Books/issues"
+  },
+  "homepage": "https://github.com/matheuspereirasalvador/DemoQA-Books#readme",
+  "devDependencies": {
+    "cypress": "^15.5.0"
+  }
+}
